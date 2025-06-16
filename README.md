@@ -5,7 +5,7 @@ A React Native app that fetches and displays images from the Flickr public feed 
 ## 🚀 Features
 
 - Fetch photos from Flickr public feed
-- Filter by tags (e.g., `kitten,dog`)
+- Fetch photos by tags (e.g., `kitten,dog`)
 - Grid/List view of images
 - React Native + TypeScript
 
